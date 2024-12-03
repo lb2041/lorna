@@ -9,6 +9,87 @@
     },
     "items": [
         {
+            "id": "https://lb2041.github.io/lorna/images/1200px-LindisfarneFol27rIncipitMatt/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "1200px-LindisfarneFol27rIncipitMatt"
+                ]
+            },
+            "height": 1703,
+            "width": 1200,
+            "items": [
+                {
+                    "id": "https://lb2041.github.io/lorna/images/1200px-LindisfarneFol27rIncipitMatt/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://lb2041.github.io/lorna/images/1200px-LindisfarneFol27rIncipitMatt/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://lb2041.github.io/lorna/images/1200px-LindisfarneFol27rIncipitMatt/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 38,
+                                                "height": 54
+                                            },
+                                            {
+                                                "width": 75,
+                                                "height": 107
+                                            },
+                                            {
+                                                "width": 150,
+                                                "height": 213
+                                            },
+                                            {
+                                                "width": 300,
+                                                "height": 426
+                                            },
+                                            {
+                                                "width": 600,
+                                                "height": 852
+                                            },
+                                            {
+                                                "width": 1200,
+                                                "height": 1703
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 1200,
+                                        "@id": "https://lb2041.github.io/lorna/images/1200px-LindisfarneFol27rIncipitMatt",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 1703,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://lb2041.github.io/lorna/images/1200px-LindisfarneFol27rIncipitMatt/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "id": "https://lb2041.github.io/lorna/images/digcam6/canvas/",
             "type": "Canvas",
             "label": {
